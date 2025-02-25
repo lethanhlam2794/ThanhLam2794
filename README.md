@@ -32,3 +32,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+
+## 🚀 Featured Projects
+### 🐶 Pet Rescue – Green Software
+🔹 Pet Rescue là một nền tảng giúp kết nối người dùng với các tổ chức cứu hộ động vật, hỗ trợ nhận nuôi và tìm kiếm thú cưng bị lạc.  
+🔹 Công nghệ: **next.js,redux, toolkit, typescript, mongodb, swagger**  
+🔹 Demo: https://pet-demo.greensoftware.asia/
