@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Le Thanh Lam
-🚀 Software Developer | 💡 Passionate about Backend & DevOps  
+🚀 Software Developer | 💡 Passionate about Backend & Frontend  
 
 ## 📫 Contact Me
 - 📧 Email: lethanhlam2794@gmail.com
@@ -35,6 +35,6 @@
 
 ## 🚀 Featured Projects
 ### 🐶 Pet Rescue – Green Software
-🔹 Pet Rescue là một nền tảng giúp kết nối người dùng với các tổ chức cứu hộ động vật, hỗ trợ nhận nuôi và tìm kiếm thú cưng bị lạc.  
-🔹 Công nghệ: **next.js,redux, toolkit, typescript, mongodb, swagger**  
+🔹 Pet Rescue is a platform that connects users with animal support organizations, helping them adopt and find pets.  
+🔹 Technology: **next.js,redux, toolkit, typescript, mongodb, swagger**  
 🔹 Demo: https://pet-demo.greensoftware.asia/
